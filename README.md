@@ -1,4 +1,4 @@
-# TESU-MySQL-Airline-Database-Analysis-Airline Performance Analytics (SQL Project)
+# MySQL-Airline-Database-Analysis-Airline Performance Analytics (SQL Project)
 
 This project analyzes airline carrier performance across six major U.S. airports: ATL, DCA, IAD, BWI, JAX, and TPA. Using SQL queries on a structured flight database, the analysis evaluates flight volume, delay metrics, market share, and aircraft age to identify the most efficient and reliable carriers.
 
